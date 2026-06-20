@@ -1,0 +1,10 @@
+run_name,algo,env_id,seed,episodes,final_reward,mean_reward,best_moving_avg_reward,device
+CartPole-v1_phase3_double_dqn_seed2026_20260620_160557,double_dqn,CartPole-v1,2026,300,500.0,153.78333333333333,473.1,cpu
+CartPole-v1_phase3_double_dqn_seed2027_20260620_160823,double_dqn,CartPole-v1,2027,300,106.0,123.51333333333334,466.1,cpu
+CartPole-v1_phase3_double_dqn_seed2028_20260620_161024,double_dqn,CartPole-v1,2028,300,206.0,294.5233333333333,500.0,cpu
+CartPole-v1_phase3_dqn_seed2026_20260620_155918,dqn,CartPole-v1,2026,300,35.0,142.89,496.15,cpu
+CartPole-v1_phase3_dqn_seed2027_20260620_160115,dqn,CartPole-v1,2027,300,21.0,90.86,235.4,cpu
+CartPole-v1_phase3_dqn_seed2028_20260620_160243,dqn,CartPole-v1,2028,300,22.0,221.52666666666667,500.0,cpu
+CartPole-v1_phase3_random_seed2026_20260620_155907,random,CartPole-v1,2026,300,28.0,23.053333333333335,28.6,cpu
+CartPole-v1_phase3_random_seed2027_20260620_155910,random,CartPole-v1,2027,300,45.0,21.94,28.95,cpu
+CartPole-v1_phase3_random_seed2028_20260620_155913,random,CartPole-v1,2028,300,10.0,22.10333333333333,30.55,cpu

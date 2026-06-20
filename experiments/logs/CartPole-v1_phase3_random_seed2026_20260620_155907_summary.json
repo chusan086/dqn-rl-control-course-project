@@ -1,0 +1,13 @@
+﻿{
+    "run_name":  "CartPole-v1_phase3_random_seed2026_20260620_155907",
+    "algo":  "random",
+    "env_id":  "CartPole-v1",
+    "seed":  2026,
+    "episodes":  300,
+    "final_reward":  28.0,
+    "mean_reward":  23.053333333333335,
+    "best_moving_avg_reward":  28.6,
+    "csv_path":  "experiments/logs/CartPole-v1_phase3_random_seed2026_20260620_155907.csv",
+    "checkpoint_path":  "experiments/checkpoints/CartPole-v1_phase3_random_seed2026_20260620_155907_best.pt",
+    "device":  "cpu"
+}

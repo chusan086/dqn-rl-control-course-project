@@ -1,0 +1,4 @@
+algo,seeds,mean_reward_mean,mean_reward_std,last50_mean_reward_mean,last50_mean_reward_std,best_moving_avg_reward_mean,best_moving_avg_reward_std
+double_dqn,3,190.607,91.258,173.847,138.584,479.733,17.897
+dqn,3,151.759,65.783,97.94,61.019,410.517,151.668
+random,3,22.366,0.601,22.06,1.633,29.367,1.04

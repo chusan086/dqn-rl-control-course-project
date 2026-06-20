@@ -1,0 +1,13 @@
+﻿{
+    "run_name":  "CartPole-v1_phase3_dqn_seed2026_20260620_155918",
+    "algo":  "dqn",
+    "env_id":  "CartPole-v1",
+    "seed":  2026,
+    "episodes":  300,
+    "final_reward":  35.0,
+    "mean_reward":  142.89,
+    "best_moving_avg_reward":  496.15,
+    "csv_path":  "experiments/logs/CartPole-v1_phase3_dqn_seed2026_20260620_155918.csv",
+    "checkpoint_path":  "experiments/checkpoints/CartPole-v1_phase3_dqn_seed2026_20260620_155918_best.pt",
+    "device":  "cpu"
+}

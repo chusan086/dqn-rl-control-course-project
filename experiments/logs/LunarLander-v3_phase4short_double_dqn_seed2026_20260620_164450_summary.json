@@ -1,0 +1,13 @@
+﻿{
+    "run_name":  "LunarLander-v3_phase4short_double_dqn_seed2026_20260620_164450",
+    "algo":  "double_dqn",
+    "env_id":  "LunarLander-v3",
+    "seed":  2026,
+    "episodes":  50,
+    "final_reward":  53.53257173849279,
+    "mean_reward":  -25.7182944902447,
+    "best_moving_avg_reward":  11.041013524661334,
+    "csv_path":  "experiments/logs/LunarLander-v3_phase4short_double_dqn_seed2026_20260620_164450.csv",
+    "checkpoint_path":  "experiments/checkpoints/LunarLander-v3_phase4short_double_dqn_seed2026_20260620_164450_best.pt",
+    "device":  "cpu"
+}

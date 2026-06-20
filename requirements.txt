@@ -1,0 +1,9 @@
+gymnasium[classic-control]
+gymnasium[box2d]
+numpy
+pandas
+matplotlib
+seaborn
+swig
+tqdm
+torch
